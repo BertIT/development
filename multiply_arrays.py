@@ -49,7 +49,7 @@ def multiply_arr_2(arr):
 
 
 if __name__ == '__main__':
-    arr = [1, 2, 3, 4]
+    arr = []
     print(f'youtube method: \n'
           f'{multiply_arr(arr)}')
     print(f'my method: \n'
